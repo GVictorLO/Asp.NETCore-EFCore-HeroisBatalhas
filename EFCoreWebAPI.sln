@@ -5,14 +5,9 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreWebAPI", "EFCoreWebAPI.csproj", "{2B89C630-0253-4BAC-8F13-C488BE250A42}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.Domain", "..\EFCore.Domain\EFCore.Domain.csproj", "{3BBC7964-CCBD-48BF-B0EC-31B9F0B27407}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore.Domain", "..\EFCore.Domain\EFCore.Domain.csproj", "{3BBC7964-CCBD-48BF-B0EC-31B9F0B27407}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.Repo", "..\EFCore.Repo\EFCore.Repo.csproj", "{A8AD44AD-EAF7-4909-B583-0B252B669938}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5C5396C8-A419-4DA7-B8AD-33E8755B4C0A}"
-	ProjectSection(SolutionItems) = preProject
-		.editorconfig = .editorconfig
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore.Repo", "..\EFCore.Repo\EFCore.Repo.csproj", "{A8AD44AD-EAF7-4909-B583-0B252B669938}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
